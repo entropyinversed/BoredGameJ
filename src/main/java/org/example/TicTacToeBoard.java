@@ -1,6 +1,6 @@
 package org.example;
 
-import java.util.Arrays
+import java.util.Arrays;
 
 public class TicTacToeBoard implements Board {
     private static final byte BOARD_LENGTH = 3;
